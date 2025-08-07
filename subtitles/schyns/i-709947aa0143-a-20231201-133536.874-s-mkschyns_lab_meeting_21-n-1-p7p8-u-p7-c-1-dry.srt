@@ -1,0 +1,72 @@
+0
+0:00:13.010000-->0:00:29.210000
+ Hello. So we should discuss a topic, right? Yeah, I think it's just a randomly pick up
+
+1
+0:00:29.210000-->0:00:36.830000
+ two person to make a pair to discuss the topic set there. What is a challenge of
+
+2
+0:00:36.830000-->0:00:50.600000
+ the cognitive science in future? So, oh yeah, it's just a free brainstorm about
+
+3
+0:00:50.600000-->0:00:55.840000
+ how we think about the future of the cognitive science. Do they have some, I
+
+4
+0:00:55.840000-->0:01:05.420000
+ mean, challenge problem that we need to deal with or yeah. I know it's kind of
+
+5
+0:01:05.420000-->0:01:25.710000
+ awkward that have such experiment online here like this, right? Me too. So we still, I
+
+6
+0:01:25.710000-->0:01:31.910000
+ mean, it looks like we cannot skip this step, right? Just wait here until the
+
+7
+0:01:32.210000-->0:01:52.380000
+ time, I mean, Pablo set there. Yeah, or maybe your idea about the future of the
+
+8
+0:01:52.380000-->0:02:01.350000
+ cognitive science. Which direction should we, I mean, go to
+
+9
+0:02:01.350000-->0:02:40.510000
+ or your interest, I think. I mean, new technique for brain imaging. Yeah, so when
+
+10
+0:02:40.510000-->0:02:47.090000
+ you mentioned about the method, do you mean like the technique
+
+11
+0:02:47.090000-->0:02:54.650000
+ that is kind of brain in terms of the spatial temporal resolution or you mean
+
+12
+0:02:54.650000-->0:03:00.390000
+ the method that's how we analyze the data to get into more questions or
+
+13
+0:03:00.390000-->0:03:40.330000
+ phenomenons that we can explore? Which do you mean? Yeah, I think I have
+
+14
+0:03:40.330000-->0:03:45.830000
+ similar feeling like you but from a kind of different perspective that maybe we
+
+15
+0:03:45.830000-->0:03:55.530000
+ can find a way of perspective that we can link conceptually the algorithm
+
+16
+0:03:55.530000-->0:04:05.650000
+ between the brain and in, you know, deep models because I think each of them can
+
+17
+0:04:05.650000-->0:04:09.910000
+ give some inspirations about how to go further than the
+

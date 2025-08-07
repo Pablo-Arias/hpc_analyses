@@ -1,0 +1,148 @@
+0
+0:00:11.270000-->0:00:15.830000
+ Hello. How are you?
+
+1
+0:00:21.870000-->0:00:26.280000
+ Sorry? Nice to see you.
+
+2
+0:00:26.280000-->0:00:28.060000
+ What's your name?
+
+3
+0:00:30.050000-->0:00:32.510000
+ My name is Yagoda.
+
+4
+0:00:32.510000-->0:00:34.670000
+ You are in the UK, yes?
+
+5
+0:00:34.670000-->0:00:41.960000
+ Well, I think all the rest of the participants were in the UK,
+
+6
+0:00:41.960000-->0:00:44.700000
+ so I was thinking, yeah, it's just UK participants.
+
+7
+0:00:44.700000-->0:00:45.580000
+ Yeah.
+
+8
+0:00:47.450000-->0:00:49.390000
+ No, I wouldn't be able to, no.
+
+9
+0:00:53.800000-->0:00:56.660000
+ No, no, no. I'm from Macedonia.
+
+10
+0:01:04.650000-->0:01:09.470000
+ Oh, okay.
+
+11
+0:01:11.260000-->0:01:13.300000
+ And you are from Italy, or?
+
+12
+0:01:22.540000-->0:01:25.040000
+ Okay, okay, because you asked me if I'm from Italy.
+
+13
+0:01:25.040000-->0:01:26.860000
+ Maybe you recognize something.
+
+14
+0:01:42.670000-->0:01:45.770000
+ Like a European, yeah, European accent.
+
+15
+0:01:46.350000-->0:01:46.770000
+ Okay.
+
+16
+0:01:52.650000-->0:01:58.190000
+ It's been nice. I've been about almost three years now on Freelifex.
+
+17
+0:02:19.060000-->0:02:19.220000
+ Yeah.
+
+18
+0:02:19.220000-->0:02:20.120000
+ Yeah, yeah.
+
+19
+0:02:35.550000-->0:02:37.710000
+ Yes, I do like it.
+
+20
+0:02:37.710000-->0:02:45.350000
+ But what I did in the last period is, because there were really small payments, like 0.15, 0.25,
+
+21
+0:02:45.550000-->0:02:49.110000
+ and you're even risking to be rejected for a study.
+
+22
+0:02:49.550000-->0:02:53.570000
+ And then you need to write with researchers.
+
+23
+0:02:53.570000-->0:03:00.810000
+ So I just decided to do only the ones that are paying more than one pound, 1.50.
+
+24
+0:03:00.810000-->0:03:03.330000
+ And I think that works much better.
+
+25
+0:03:03.330000-->0:03:05.810000
+ Yeah, it works much better with less work.
+
+26
+0:03:05.810000-->0:03:09.610000
+ I'm actually getting exactly the same amount of money,
+
+27
+0:03:09.610000-->0:03:15.890000
+ because I'm just saying, clicking not interested on the ones that are not paying well.
+
+28
+0:03:15.890000-->0:03:22.330000
+ So I think algorithm wants to catch up to, because there is algorithm, isn't it?
+
+29
+0:03:22.330000-->0:03:24.850000
+ You know, with client.
+
+30
+0:03:24.850000-->0:03:30.810000
+ So I decided to do that way because really it was frustrating.
+
+31
+0:03:30.810000-->0:03:34.950000
+ Sometimes there will be a problem just for 0.15.
+
+32
+0:03:34.950000-->0:03:39.030000
+ And yes, you will have problem, but it will not open or whatever.
+
+33
+0:03:39.030000-->0:03:44.030000
+ And I'm like, I don't want to bother really, because I also do other platforms.
+
+34
+0:03:44.030000-->0:03:51.630000
+ And the payment on Prolific, it's actually not as good as on other platforms.
+
+35
+0:03:51.630000-->0:04:05.150000
+ So it is like user testing, you know, it's different than Prolific.
+
+36
+0:04:05.750000-->0:04:09.470000
+ But it's not like typing.
+

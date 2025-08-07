@@ -1,0 +1,140 @@
+0
+0:00:00-->0:00:16.790000
+ Hi, are you there?
+
+1
+0:00:16.790000-->0:00:20.630000
+ Yeah, I can see you. Can you see me?
+
+2
+0:00:20.650000-->0:00:24.130000
+ Okay, how are you doing?
+
+3
+0:00:32.620000-->0:00:33.500000
+ I'm well.
+
+4
+0:00:33.500000-->0:00:38.420000
+ I'm just here, just chilling. I was seeing a movie before this and saw that you came up.
+
+5
+0:00:39.700000-->0:00:42.130000
+ Oh, okay.
+
+6
+0:00:46.550000-->0:00:47.950000
+ So, what's your name?
+
+7
+0:00:50.550000-->0:00:52.330000
+ Margaret?
+
+8
+0:00:53.550000-->0:00:55.370000
+ Okay, fine.
+
+9
+0:00:55.550000-->0:00:57.050000
+ You're from where?
+
+10
+0:00:58.550000-->0:01:00.830000
+ Oh, nice.
+
+11
+0:01:03.150000-->0:01:03.950000
+ Yeah.
+
+12
+0:01:06.150000-->0:01:08.150000
+ So, you're based in Tokyo, right?
+
+13
+0:01:10.100000-->0:01:11.950000
+ I'm Femi from Nigeria.
+
+14
+0:01:16.800000-->0:01:19.760000
+ Yeah, I'm from Nigeria.
+
+15
+0:01:35.480000-->0:01:35.560000
+ Yeah, I'm a student.
+
+16
+0:01:35.560000-->0:01:38.340000
+ Yeah, just for studies.
+
+17
+0:01:48.960000-->0:01:49.020000
+ How about you?
+
+18
+0:01:49.500000-->0:01:52.100000
+ Haven't spent up to a year yet?
+
+19
+0:01:58.750000-->0:02:06.500000
+ It's actually a one-year program, so I'm actually in my... I'm studying web development.
+
+20
+0:02:30.550000-->0:02:30.690000
+ Web development at the University of Ohio.
+
+21
+0:02:45.790000-->0:02:45.930000
+ So, what do you do for fun?
+
+22
+0:02:45.930000-->0:02:48.010000
+ Oh, you love clubbing, right?
+
+23
+0:03:12.180000-->0:03:12.200000
+ Yeah.
+
+24
+0:03:23.160000-->0:03:23.260000
+ Do you play any sport?
+
+25
+0:03:23.260000-->0:03:23.640000
+ Okay, you work out.
+
+26
+0:03:29.250000-->0:03:32.670000
+ Yeah, I play a bit of basketball.
+
+27
+0:03:34.250000-->0:03:37.970000
+ Then I also work out once in a while.
+
+28
+0:03:38.250000-->0:03:46.690000
+ It's been a long time I actually went to the gym, so I've been busy, like too busy.
+
+29
+0:03:47.330000-->0:03:49.270000
+ So, I haven't really...
+
+30
+0:03:50.250000-->0:03:51.930000
+ It's choking.
+
+31
+0:03:55.250000-->0:03:59.650000
+ How did you learn to speak Japanese?
+
+32
+0:04:02.250000-->0:04:03.990000
+ I don't know.
+
+33
+0:04:05.250000-->0:04:06.330000
+ How about you?
+
+34
+0:04:07.250000-->0:04:08.290000
+ Thank you.
+

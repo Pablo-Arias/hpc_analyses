@@ -1,0 +1,112 @@
+0
+0:00:00-->0:00:00.140000
+ Hello.
+
+1
+0:00:00.500000-->0:00:01.150000
+ All right.
+
+2
+0:00:04.950000-->0:00:05.510000
+ You're right.
+
+3
+0:00:10.850000-->0:00:14.380000
+ My name is Michelle.
+
+4
+0:00:14.380000-->0:00:14.660000
+ England.
+
+5
+0:00:21.950000-->0:00:22.090000
+ Are you in England?
+
+6
+0:00:28.330000-->0:00:28.450000
+ I've never heard of that before.
+
+7
+0:00:28.450000-->0:00:28.650000
+ I'm in Hull.
+
+8
+0:00:31.730000-->0:00:31.750000
+ Really?
+
+9
+0:00:31.750000-->0:00:32.730000
+ Yes, I'm in Hull.
+
+10
+0:00:52.730000-->0:00:56.650000
+ I think after I would go and look it up, because I don't know, I've never heard of the name
+
+11
+0:00:56.650000-->0:00:56.690000
+ before.
+
+12
+0:00:58.530000-->0:00:58.550000
+ Really?
+
+13
+0:01:01.320000-->0:01:01.600000
+ Oh, wow.
+
+14
+0:01:06.730000-->0:01:06.850000
+ That's interesting.
+
+15
+0:01:10.430000-->0:01:10.510000
+ I did not know.
+
+16
+0:01:10.510000-->0:01:11.430000
+ You know, I say I'll speak for myself.
+
+17
+0:01:11.430000-->0:01:12.190000
+ We don't really know our side, Manchester, Birmingham, London.
+
+18
+0:01:12.190000-->0:01:13.450000
+ I've never heard of that before.
+
+19
+0:01:18.350000-->0:01:29.870000
+ Oh, so like the countryside in the Midlands must be interesting.
+
+20
+0:01:46.480000-->0:01:46.560000
+ Is it as cold?
+
+21
+0:01:58.300000-->0:01:58.420000
+ Well, I hate the cold actually.
+
+22
+0:02:03.100000-->0:02:17.350000
+ I hate the cold actually. I'm about to put my ears on and I'm inside. I'm very cold. I don't like the cold. I can imagine.
+
+23
+0:02:17.650000-->0:02:22.810000
+ Actually, I would have thought that it would be bubbly. It's not as bubbly as it is in London.
+
+24
+0:02:39.800000-->0:03:07.840000
+ Before I can understand you clearly, I need to Google your place. I've learnt something to this. I need to Google it. I think I might visit.
+
+25
+0:03:07.840000-->0:03:42.700000
+ Wow, interesting. So what do you do? I'm a student actually. Wow. So is it like you're restricted? Are you in healthcare? What kind of job are you in?
+
+26
+0:03:50.260000-->0:04:06.730000
+ What has it been like for you? I've been hoping to have a kid soon but hearing that you've been a mom since 17. Wow. Interesting.
+
+27
+0:04:07.550000-->0:04:09.160000
+ It's just one you have.
+

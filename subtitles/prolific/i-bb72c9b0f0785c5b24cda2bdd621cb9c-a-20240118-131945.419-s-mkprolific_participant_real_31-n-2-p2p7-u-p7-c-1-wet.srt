@@ -1,0 +1,140 @@
+0
+0:00:12.200000-->0:00:18.710000
+ Hello. Hi. I'm good, thank you. How are you?
+
+1
+0:00:24.750000-->0:00:28.110000
+ My name is Faith. What's your name?
+
+2
+0:00:33.600000-->0:00:46.850000
+ What? Okay. Okay. Hi. I live in Manchester.
+
+3
+0:00:46.950000-->0:00:54.120000
+ Okay. Okay. Hello.
+
+4
+0:00:54.120000-->0:01:01.140000
+ So, what do you do? I see lots of books, lots and lots of books behind you.
+
+5
+0:01:04.650000-->0:01:10.090000
+ Okay. Okay. So, you travel a lot. That sounds like fun.
+
+6
+0:01:10.090000-->0:01:10.510000
+ Where have you been?
+
+7
+0:01:21.200000-->0:01:26.030000
+ Oh. Wow. That's awesome.
+
+8
+0:01:26.030000-->0:01:32.530000
+ Is that like a career? Is that a career?
+
+9
+0:01:37.150000-->0:01:39.330000
+ Like, is that your job?
+
+10
+0:01:42.400000-->0:01:51.320000
+ Oh. Oh. I'm a student. I don't do anything cool like you do.
+
+11
+0:01:51.320000-->0:01:55.420000
+ I don't travel like you. I'm a student at, you know, my sales app.
+
+12
+0:01:56-->0:02:05.210000
+ Computer Sciences. Computer Sciences.
+
+13
+0:02:05.550000-->0:02:38.350000
+ I've been studying for about six months. Six months, yeah.
+
+14
+0:02:38.850000-->0:02:46.490000
+ It's not fun, but it's okay, I guess. It's okay.
+
+15
+0:02:47.910000-->0:02:52.450000
+ Yes. A lot of hard work for me. A lot of hard work.
+
+16
+0:02:52.450000-->0:02:58.050000
+ I'm actually overloaded with so much to do and so much to learn.
+
+17
+0:02:58.050000-->0:03:03.950000
+ And it's, sometimes it's like, why did I start this? I don't even know.
+
+18
+0:03:03.950000-->0:03:09.290000
+ But I'm getting there. I hope. I hope I can finish.
+
+19
+0:03:09.450000-->0:03:18.280000
+ Well, I'm going to build applications.
+
+20
+0:03:18.280000-->0:03:21.740000
+ Games. I want to build games.
+
+21
+0:03:21.740000-->0:03:27.940000
+ Because I love games. I love the logic that goes on behind.
+
+22
+0:03:27.940000-->0:03:30.200000
+ The algorithms that go on behind the games.
+
+23
+0:03:30.200000-->0:03:35.180000
+ So when I play them, I'm thinking like, oh, I wonder what they did to make this action do that.
+
+24
+0:03:35.180000-->0:03:38.180000
+ So that's what I'm going to do with my Masters.
+
+25
+0:03:38.180000-->0:03:40.200000
+ That's why I'm studying so hard.
+
+26
+0:03:40.200000-->0:03:43.180000
+ Because I want to do what they do.
+
+27
+0:03:43.180000-->0:03:50.240000
+ And turn those drawings and characters into, you know, movements and cool sequences and stuff like that.
+
+28
+0:03:50.240000-->0:03:53.020000
+ It's something I'm looking forward to doing.
+
+29
+0:03:53.020000-->0:03:56.200000
+ Well, right now, I might not be able to do it.
+
+30
+0:03:56.200000-->0:03:58.940000
+ But I can.
+
+31
+0:03:58.940000-->0:04:01.820000
+ And our conversation is about to end.
+
+32
+0:04:01.820000-->0:04:04.260000
+ Because it's so much.
+
+33
+0:04:05.540000-->0:04:07.220000
+ It was lovely to meet you.
+
+34
+0:04:07.220000-->0:04:08.460000
+ Thank you so much.
+

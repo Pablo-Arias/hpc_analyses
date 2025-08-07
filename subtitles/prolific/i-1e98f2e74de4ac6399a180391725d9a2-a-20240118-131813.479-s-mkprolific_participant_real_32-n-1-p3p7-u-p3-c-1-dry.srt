@@ -1,0 +1,232 @@
+0
+0:00:09-->0:00:15.270000
+ Hello. Hi, how are you?
+
+1
+0:00:18.200000-->0:00:20.900000
+ I'm fine. How's your day going?
+
+2
+0:00:20.900000-->0:00:30.610000
+ Alright. Alright, that's fine. Sorry.
+
+3
+0:00:30.750000-->0:00:32.990000
+ My name is Zaya. What's your name?
+
+4
+0:00:37.630000-->0:00:41.610000
+ Oh, Zaya. Nice to meet you. I have a cousin named Zoe.
+
+5
+0:00:41.750000-->0:00:51.250000
+ Yeah. Yes. I'm in the UK right now.
+
+6
+0:00:55.290000-->0:00:56.290000
+ Oh, I'm in Princeton.
+
+7
+0:00:56.290000-->0:01:04.590000
+ Oh, that's cool. That's good to know.
+
+8
+0:01:06.580000-->0:01:13.090000
+ Yeah. Oh, yeah. Privacy. Yeah.
+
+9
+0:01:15.050000-->0:01:18.810000
+ Yeah, it is. So cool.
+
+10
+0:01:18.810000-->0:01:25.780000
+ So, yeah. What kind of dog do you have?
+
+11
+0:01:30.230000-->0:01:31.410000
+ Oh, okay.
+
+12
+0:01:31.450000-->0:01:35.770000
+ Oh, Labrador Retrievers. They're really cute. I like that.
+
+13
+0:01:35.770000-->0:01:40.370000
+ I don't have a dog though, but I'm a little bit scared of them, like touching them.
+
+14
+0:01:44.350000-->0:01:46.180000
+ Yeah, a little bit.
+
+15
+0:01:46.900000-->0:01:50.160000
+ But I like them, but I just, I don't know.
+
+16
+0:01:50.160000-->0:01:54.900000
+ I think when I was little, I had like a dog.
+
+17
+0:01:54.900000-->0:01:58.580000
+ It beats me. So since then, I've just been a little bit scared.
+
+18
+0:02:00.660000-->0:02:00.920000
+ Yeah.
+
+19
+0:02:06.350000-->0:02:08.950000
+ I'm hoping to meet one soon.
+
+20
+0:02:09.050000-->0:02:14.010000
+ I actually would like to own a dog, but since I can't really touch them, there's no point.
+
+21
+0:02:19.620000-->0:02:20
+ Yeah.
+
+22
+0:02:20-->0:02:21.100000
+ Yes.
+
+23
+0:02:21.100000-->0:02:22.220000
+ Okay.
+
+24
+0:02:22.220000-->0:02:28.060000
+ So, I think a Chihuahua.
+
+25
+0:02:28.060000-->0:02:32.570000
+ Yeah, a little.
+
+26
+0:02:32.570000-->0:02:36.610000
+ Yeah, so I could just be following you everywhere, all about the house, everywhere.
+
+27
+0:02:42.010000-->0:02:43.030000
+ Yeah, I've heard so.
+
+28
+0:02:43.030000-->0:02:45.190000
+ They do a lot for you. They take care of you.
+
+29
+0:02:45.190000-->0:02:48.050000
+ They can be emotionally compatible with you.
+
+30
+0:02:48.050000-->0:02:50.730000
+ They know how to cheer you up in little ways.
+
+31
+0:02:51.660000-->0:02:51.880000
+ Yeah.
+
+32
+0:02:51.880000-->0:02:54.830000
+ I think it would be nice.
+
+33
+0:02:58.140000-->0:02:58.420000
+ No.
+
+34
+0:03:00.580000-->0:03:00.840000
+ Yeah.
+
+35
+0:03:00.840000-->0:03:04.140000
+ But I used to have a tortoise, though, when I was much younger.
+
+36
+0:03:04.300000-->0:03:06.040000
+ There's a tortoise.
+
+37
+0:03:07.640000-->0:03:08.100000
+ Yeah.
+
+38
+0:03:08.300000-->0:03:13.510000
+ Well, it did too.
+
+39
+0:03:13.510000-->0:03:15.190000
+ But I don't know what happened to him.
+
+40
+0:03:15.190000-->0:03:18.390000
+ One day, he just, that was it.
+
+41
+0:03:18.390000-->0:03:20.050000
+ He just wasn't living anymore.
+
+42
+0:03:27.410000-->0:03:28.890000
+ No, they are really slow.
+
+43
+0:03:28.890000-->0:03:30.590000
+ They take their time.
+
+44
+0:03:30.590000-->0:03:32.110000
+ And he was kind of big.
+
+45
+0:03:32.110000-->0:03:35.870000
+ So, yeah, I think he was just like slowly crawling in.
+
+46
+0:03:35.870000-->0:03:36.590000
+ All that.
+
+47
+0:03:37.330000-->0:03:38.250000
+ But he owns space.
+
+48
+0:03:38.250000-->0:03:40.330000
+ So, it's just crawl around.
+
+49
+0:03:40.330000-->0:03:41.190000
+ It's space.
+
+50
+0:03:41.190000-->0:03:43.170000
+ And when he's tired, he should just sit down.
+
+51
+0:03:43.170000-->0:03:45.570000
+ He should never sit down, but he should just stay one place.
+
+52
+0:03:46.750000-->0:03:47.910000
+ Just stay at a place.
+
+53
+0:03:53.700000-->0:03:55.020000
+ I think his name was Allen.
+
+54
+0:03:57.590000-->0:03:58.870000
+ I didn't really name it.
+
+55
+0:03:58.870000-->0:03:59.990000
+ Yes, I didn't really name him.
+
+56
+0:03:59.990000-->0:04:03.150000
+ But I think I used to call him Allen once in a while, but I didn't name it.
+
+57
+0:04:09.260000-->0:04:09.560000
+ Yeah.
+

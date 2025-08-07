@@ -1,0 +1,184 @@
+0
+0:00:19.020000-->0:00:20.120000
+ Am I mute?
+
+1
+0:00:23.680000-->0:00:25.860000
+ But I can't see others.
+
+2
+0:00:25.860000-->0:00:26.780000
+ I can only see you.
+
+3
+0:00:26.780000-->0:00:27.200000
+ Is that?
+
+4
+0:00:31.380000-->0:00:32.080000
+ Ah, yeah.
+
+5
+0:00:32.700000-->0:00:37.600000
+ Any idea what the challenge I had in the?
+
+6
+0:00:38.200000-->0:00:38.460000
+ Oh.
+
+7
+0:00:42.770000-->0:00:45.390000
+ Are we supposed to talk about the?
+
+8
+0:00:46.400000-->0:00:46.920000
+ Oh.
+
+9
+0:00:48.580000-->0:00:49.720000
+ Did you see?
+
+10
+0:00:50.480000-->0:00:51.340000
+ Did you see that?
+
+11
+0:01:01.030000-->0:01:09.170000
+ Uh, I, I, oh, OK.
+
+12
+0:01:09.990000-->0:01:10.650000
+ Yeah.
+
+13
+0:01:10.710000-->0:01:13.690000
+ The task is like we need to talk about the.
+
+14
+0:01:18.600000-->0:01:21.160000
+ I definitely, I think I definitely
+
+15
+0:01:21.160000-->0:01:24.560000
+ see some change over here.
+
+16
+0:01:33.960000-->0:01:34.460000
+ Why?
+
+17
+0:01:43.810000-->0:01:44.370000
+ Yeah, yeah.
+
+18
+0:01:44.970000-->0:01:49.150000
+ So what do you think about like the cognitive science
+
+19
+0:01:49.170000-->0:01:50.190000
+ challenging?
+
+20
+0:02:08.150000-->0:02:12.470000
+ Yeah, I actually do not have such big picture of that.
+
+21
+0:02:22.310000-->0:02:24.530000
+ Yeah, because I'm doing confidence.
+
+22
+0:02:24.530000-->0:02:26.990000
+ So I think, I feel like one direction
+
+23
+0:02:26.990000-->0:02:30.270000
+ is that they are going to build much more complicated models.
+
+24
+0:02:31.230000-->0:02:37.550000
+ Consider both evidence and also like tendency of one's choice.
+
+25
+0:02:38.310000-->0:02:41.390000
+ I think for now, the model they all build
+
+26
+0:02:41.390000-->0:02:43.670000
+ are kind of unreliable.
+
+27
+0:02:44.370000-->0:02:47.210000
+ At least from the data I tested, they
+
+28
+0:02:47.210000-->0:02:49.010000
+ do not show very good reliability.
+
+29
+0:02:49.010000-->0:02:53.330000
+ So I feel there must be some, like because full perception
+
+30
+0:02:53.910000-->0:03:00.870000
+ as what you do, like you have really well-defined space
+
+31
+0:03:00.870000-->0:03:01.970000
+ of stimuli.
+
+32
+0:03:01.970000-->0:03:05.590000
+ And like the data you collected can well fit it,
+
+33
+0:03:05.790000-->0:03:10.010000
+ like use that space to have a really good prediction,
+
+34
+0:03:10.010000-->0:03:13.270000
+ things like that, which is not the case for Covenant,
+
+35
+0:03:13.270000-->0:03:13.770000
+ I think.
+
+36
+0:03:16.210000-->0:03:24.980000
+ No, I think it's because the cognitive process is not
+
+37
+0:03:24.980000-->0:03:25.780000
+ well-defined.
+
+38
+0:03:25.780000-->0:03:28.200000
+ It's quite complicated.
+
+39
+0:03:28.200000-->0:03:32.580000
+ It contains both perception part and also like the more higher
+
+40
+0:03:32.580000-->0:03:33.300000
+ order things.
+
+41
+0:03:33.300000-->0:03:37.660000
+ So it's quite difficult to have a really well, yeah.
+
+42
+0:03:37.820000-->0:03:54.770000
+ So I have no idea, but I feel like it's
+
+43
+0:03:54.770000-->0:04:00.630000
+ requires some modeling thing, like math thing,
+
+44
+0:04:00.630000-->0:04:02.110000
+ which I'm not good at.
+
+45
+0:04:02.110000-->0:04:03.890000
+ But I feel like that's the key.
+

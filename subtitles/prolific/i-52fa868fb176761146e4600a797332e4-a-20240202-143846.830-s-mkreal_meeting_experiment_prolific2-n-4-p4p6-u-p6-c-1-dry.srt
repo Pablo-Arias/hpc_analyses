@@ -1,0 +1,44 @@
+0
+0:00:00.950000-->0:00:24.470000
+ Hi. How have you been? Fine. Good day to you. How have you been? Good day. How are you doing?
+
+1
+0:00:28.950000-->0:00:58.950000
+ Fine. How is everyone over there? Very, very good. How is your husband? My name is Ramadan. Yasmin. Yasmin, right?
+
+2
+0:01:00.150000-->0:01:27.990000
+ I am Muslim. Are you a Muslim? The name looks cool on you. The name looks very cute. Are you a chemist? Do you run experiments?
+
+3
+0:01:27.990000-->0:01:53.420000
+ I could see some kind of laboratory tools at your back. I thought you were in a lab.
+
+4
+0:01:53.600000-->0:02:03.820000
+ That's good. That's good. Do you have kids?
+
+5
+0:02:23.680000-->0:02:23.740000
+ Both of them.
+
+6
+0:02:23.740000-->0:02:29.400000
+ Both of them. Are you interested in that? Why are you interested in that?
+
+7
+0:02:29.400000-->0:02:52.340000
+ You kind of do. I was born in Nigeria. Do you know the country? Are you sure?
+
+8
+0:03:05.500000-->0:03:16.860000
+ Where have you travelled to before in Africa? Is it a business trip?
+
+9
+0:03:31.050000-->0:03:56.300000
+ How did you feel spending some time there? No. I have not been to South Africa before. I kind of knew some people there.
+
+10
+0:03:59.600000-->0:04:09.190000
+ It's cool to meet you. I can see that the conversation will end in a few seconds. Very nice.
+

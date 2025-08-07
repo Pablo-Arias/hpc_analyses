@@ -1,0 +1,196 @@
+0
+0:00:02.640000-->0:00:15.770000
+ Sorry, I didn't see the text.
+
+1
+0:00:15.770000-->0:00:17.090000
+ Did you know the question?
+
+2
+0:00:17.090000-->0:00:23.960000
+ I was a face reason.
+
+3
+0:00:25.650000-->0:00:26.210000
+ Okay.
+
+4
+0:00:31.250000-->0:00:32.990000
+ Oh, okay.
+
+5
+0:00:33.150000-->0:00:37.950000
+ Yeah. I can see the manipulation of your smile already.
+
+6
+0:00:38.370000-->0:01:05.700000
+ No. Oh, I didn't see him.
+
+7
+0:01:05.720000-->0:01:10.870000
+ Yeah. Oh, yeah, yeah, yeah, I see, I see.
+
+8
+0:01:10.990000-->0:01:13.510000
+ Yeah, I see on your face as well.
+
+9
+0:01:14.550000-->0:01:17.430000
+ We are not good participants.
+
+10
+0:01:17.430000-->0:01:20.890000
+ We are now trying to figure out all the tricks.
+
+11
+0:01:26.350000-->0:01:32.450000
+ Yeah. I think some amplitude works.
+
+12
+0:01:32.450000-->0:01:34.510000
+ So I think that in the previous session,
+
+13
+0:01:34.510000-->0:01:39.110000
+ he was basically doing the up and this one is like down.
+
+14
+0:01:39.110000-->0:01:46.760000
+ Yeah. Oh, you mean very quick.
+
+15
+0:01:50.510000-->0:01:55.950000
+ I feel like when we're talking,
+
+16
+0:01:55.950000-->0:01:57.050000
+ it's difficult to see, right?
+
+17
+0:01:57.050000-->0:01:59.650000
+ Because you're already moving the mouse corner a little bit.
+
+18
+0:02:01.310000-->0:02:04.170000
+ I didn't do anything yet.
+
+19
+0:02:04.170000-->0:02:06.510000
+ The algorithm helped me did.
+
+20
+0:02:06.510000-->0:02:07.290000
+ Yeah. Yeah.
+
+21
+0:02:15.280000-->0:02:16.650000
+ Yeah.
+
+22
+0:02:16.650000-->0:02:23.640000
+ That's a, of course,
+
+23
+0:02:23.640000-->0:02:25.280000
+ I think that's just a test out there, right?
+
+24
+0:02:25.280000-->0:02:26.540000
+ And you have to, I mean,
+
+25
+0:02:26.540000-->0:02:28.160000
+ make it like when will be
+
+26
+0:02:28.160000-->0:02:30.520000
+ a very complicated question to figure out because you
+
+27
+0:02:30.520000-->0:02:33.360000
+ have to first see what the face is doing.
+
+28
+0:02:36.050000-->0:02:36.070000
+ Yeah.
+
+29
+0:02:44.390000-->0:02:45.270000
+ Oh, yeah.
+
+30
+0:02:51.930000-->0:02:52.150000
+ Oh, okay.
+
+31
+0:02:52.150000-->0:02:56.700000
+ Yeah, yeah, yeah. I see.
+
+32
+0:03:01.880000-->0:03:02.960000
+ Yeah. Because of the landmark,
+
+33
+0:03:02.960000-->0:03:05.820000
+ I think it's like attached to your face quite well.
+
+34
+0:03:18.050000-->0:03:21.170000
+ So yeah, but what I know,
+
+35
+0:03:21.170000-->0:03:24.410000
+ I don't think it will do it because we'll like if I write the program,
+
+36
+0:03:24.410000-->0:03:27.050000
+ I will first and the landmark to the face.
+
+37
+0:03:27.050000-->0:03:28.330000
+ If I didn't detect a face,
+
+38
+0:03:28.330000-->0:03:30.350000
+ then I will not manipulate it, right?
+
+39
+0:03:30.350000-->0:03:31.930000
+ That's my assumption.
+
+40
+0:03:39.310000-->0:03:39.690000
+ Yeah.
+
+41
+0:03:40.470000-->0:03:46.310000
+ I think if we put like a drawer lines here,
+
+42
+0:03:46.310000-->0:03:49.630000
+ as long as it looks like a face and we'll start to look at
+
+43
+0:03:49.630000-->0:03:51.570000
+ this corner of mouse moving.
+
+44
+0:03:51.570000-->0:03:59.550000
+ So yeah. I didn't see it.
+
+45
+0:03:59.970000-->0:04:01.290000
+ I didn't see any change.
+
+46
+0:04:01.790000-->0:04:04.030000
+ Yeah. We should check to Pablo.
+
+47
+0:04:04.030000-->0:04:06.850000
+ Maybe next time that just put an image here,
+
+48
+0:04:06.850000-->0:04:09.770000
+ then I'm pretty sure it will also change the face.
+

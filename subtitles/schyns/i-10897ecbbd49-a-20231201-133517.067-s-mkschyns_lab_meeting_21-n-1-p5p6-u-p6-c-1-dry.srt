@@ -1,0 +1,220 @@
+0
+0:00:13.480000-->0:00:14.120000
+ Can you hear me?
+
+1
+0:00:16.390000-->0:00:17.730000
+ I can't hear you.
+
+2
+0:00:18.730000-->0:00:20.470000
+ Oh, I'm muted. How am I muted?
+
+3
+0:00:22.120000-->0:00:23.300000
+ No, that's Zoom telling me
+
+4
+0:00:23.300000-->0:00:23.660000
+ I'm muted.
+
+5
+0:00:29.510000-->0:00:34.340000
+ I guess maybe
+
+6
+0:00:34.340000-->0:00:35.840000
+ Zoom is taking still...
+
+7
+0:00:37.140000-->0:00:38.440000
+ I'm just gonna change
+
+8
+0:00:38.440000-->0:00:39.640000
+ the device from Zoom.
+
+9
+0:00:50.090000-->0:00:50.650000
+ How about now?
+
+10
+0:00:54.270000-->0:00:55.830000
+ I'm just gonna leave Zoom for a second.
+
+11
+0:00:55.830000-->0:00:57.470000
+ Maybe they're taking my camera
+
+12
+0:00:57.470000-->0:01:00.870000
+ and my mic. Ah, now I can hear you, yeah.
+
+13
+0:01:02.360000-->0:01:02.920000
+ Can you hear me?
+
+14
+0:01:03.820000-->0:01:04.060000
+ Yeah.
+
+15
+0:01:07.540000-->0:01:07.900000
+ Yeah.
+
+16
+0:01:08.560000-->0:01:10.200000
+ Sorry, what was your name?
+
+17
+0:01:12.830000-->0:01:13.650000
+ Yasson.
+
+18
+0:01:17.200000-->0:01:18.550000
+ Okay, nice to meet you.
+
+19
+0:01:18.710000-->0:01:29.770000
+ Mhm.
+
+20
+0:01:32.890000-->0:01:34.870000
+ What do you think? You wanna start?
+
+21
+0:01:51.190000-->0:01:52.270000
+ Yeah, so
+
+22
+0:01:52.270000-->0:01:54.550000
+ I guess maybe one start
+
+23
+0:01:54.550000-->0:01:55.430000
+ is to think about
+
+24
+0:01:56.170000-->0:01:58.950000
+ what the future brings in any way.
+
+25
+0:01:58.950000-->0:02:00.750000
+ So I think one of the hot topics
+
+26
+0:02:00.750000-->0:02:02.390000
+ right now is AI development, right?
+
+27
+0:02:02.390000-->0:02:04.210000
+ That seems like one of the
+
+28
+0:02:04.230000-->0:02:06.650000
+ big things that is going to
+
+29
+0:02:06.650000-->0:02:08.370000
+ transform our lives and how we think about
+
+30
+0:02:08.370000-->0:02:10.410000
+ people and interactions.
+
+31
+0:02:10.410000-->0:02:12.890000
+ And so
+
+32
+0:02:12.890000-->0:02:14.710000
+ I guess cognitive science will be
+
+33
+0:02:14.710000-->0:02:15.610000
+ involved a lot.
+
+34
+0:02:16.590000-->0:02:19.890000
+ So the question would
+
+35
+0:02:19.890000-->0:02:21.970000
+ be what does that mean
+
+36
+0:02:21.970000-->0:02:22.830000
+ for cognitive science?
+
+37
+0:02:23.310000-->0:03:19.950000
+ Mhm.
+
+38
+0:03:29.900000-->0:03:32.160000
+ Yeah, that's a good point. I think that's
+
+39
+0:03:32.160000-->0:03:34.240000
+ probably one of the big
+
+40
+0:03:34.240000-->0:03:36.460000
+ contributions to bring cognitive science
+
+41
+0:03:36.460000-->0:03:38.400000
+ to the table to understanding
+
+42
+0:03:38.400000-->0:03:39.500000
+ these complex systems.
+
+43
+0:03:40.360000-->0:03:41.960000
+ But I think another point you said,
+
+44
+0:03:41.960000-->0:03:44.240000
+ I think it's also actually important to acknowledge
+
+45
+0:03:44.240000-->0:03:46.480000
+ that purely understanding
+
+46
+0:03:46.480000-->0:03:48.320000
+ a system doesn't mean you know how
+
+47
+0:03:48.320000-->0:03:49.340000
+ to build it, basically.
+
+48
+0:03:49.880000-->0:03:52.080000
+ Like a lot of these systems right now,
+
+49
+0:03:52.080000-->0:03:54.200000
+ they are conceived
+
+50
+0:03:54.200000-->0:03:55.580000
+ in a way
+
+51
+0:03:56.020000-->0:03:58.200000
+ basically void of any
+
+52
+0:03:58.200000-->0:03:59.160000
+ cognitive understanding.
+
+53
+0:04:04.290000-->0:04:05.250000
+ But yeah, so okay.
+
+54
+0:04:05.330000-->0:04:06.430000
+ Nice to meet you.
+

@@ -1,0 +1,21 @@
+# Ignore every CSV file anywhere
+*.csv
+
+# Ignore every Singularity image file anywhere
+*.sif
+
+*.err
+
+*.out
+
+*.mp4
+
+*.wav
+
+*.pickle
+
+*.pdf
+
+*.json
+
+*.txt

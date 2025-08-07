@@ -1,0 +1,92 @@
+0
+0:00:11.490000-->0:00:13.310000
+ Hey, how's it going?
+
+1
+0:00:16.990000-->0:00:17.350000
+ Good, good.
+
+2
+0:00:17.350000-->0:00:20.690000
+ So we are supposed to talk about the future of face research.
+
+3
+0:00:24.880000-->0:00:25.460000
+ Yeah.
+
+4
+0:00:29.100000-->0:00:32.410000
+ So I think that...
+
+5
+0:00:32.410000-->0:00:32.950000
+ Right, right.
+
+6
+0:00:32.950000-->0:00:41.470000
+ So I guess what I'm doing right now is like in our lab, a lot of the work has been on emotions, right?
+
+7
+0:00:41.470000-->0:00:47.030000
+ Like, so facial expression of happy, sad, surprised and so on.
+
+8
+0:00:47.030000-->0:01:02.270000
+ And I'm trying to extend it a bit into pragmatics, which is like how we use facial expressions in conversations to express, for example, how confident or how certain we are about specific things.
+
+9
+0:01:05.230000-->0:01:05.250000
+ And...
+
+10
+0:01:05.250000-->0:01:06.030000
+ And...
+
+11
+0:01:06.610000-->0:01:11.930000
+ Sorry, Chawna is talking very loudly behind me, so I sometimes can't hear myself.
+
+12
+0:01:13.690000-->0:01:22.710000
+ And basically what I'm trying to do is to figure out how language and facial expressions combine.
+
+13
+0:01:22.710000-->0:01:32.090000
+ So like if you, when you say something and you change the way that your face moves while you say this, how the person will interpret it differently.
+
+14
+0:01:32.090000-->0:01:46.410000
+ So for example, if I say like, yes or yes, you know, and there's also voice features, how these two modalities interact and also how like the speech can be differently interpreted.
+
+15
+0:01:46.410000-->0:01:53.250000
+ Like it's the same words, but just because you have like a facial expression, you get a different interpretation from it.
+
+16
+0:01:54.690000-->0:02:09.110000
+ Another thing I'm doing with Pablo now is a study where we, I think maybe you saw the presentation, right? The really study, like where we want to look at the word really, like whether it's a question or like really or really like a statement.
+
+17
+0:02:09.110000-->0:02:18.310000
+ And there we try to do reverse correlation with both the face features and the voice features and see how the two modalities kind of interact.
+
+18
+0:02:19.850000-->0:02:20.530000
+ Does that make sense?
+
+19
+0:02:43.690000-->0:02:57.870000
+ Yeah. Yeah. And they can be also aligned or misaligned. Right. So, yeah. Or you can make it longer. You can make both longer or one shorter and so on. There's like a lot of dynamics that you can kind of control.
+
+20
+0:03:14.550000-->0:03:29.150000
+ Yes. Yeah. So with Yearning, we also want to do it in MEG. So Pablo and I will do first behavioral study and then Yearning can turn it into an MEG experiment.
+
+21
+0:03:32.620000-->0:03:49.880000
+ But we're going to start quite simple. Like our first experiment is going to be very simple because, as you say, it's very complicated. So we just start with some features. And then, for example, the length and like temporal, we will do later, I think. Just need to start simple and see how to even analyze the data and so on.
+
+22
+0:03:49.880000-->0:04:09.900000
+ For now, the first pilot and then we put it into MEG. Yeah. But we want to, if we can get some results, we will put it into MEG. Sorry, I think that's it.
+

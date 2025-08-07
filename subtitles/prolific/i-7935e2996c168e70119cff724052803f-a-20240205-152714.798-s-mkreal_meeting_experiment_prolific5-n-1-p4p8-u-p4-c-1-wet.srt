@@ -1,0 +1,268 @@
+0
+0:00:08.850000-->0:00:12.060000
+ Yeah? Are you there?
+
+1
+0:00:13.600000-->0:00:14.860000
+ Can I make a call?
+
+2
+0:00:16.700000-->0:00:19.450000
+ Yeah, I'm just putting on volume a bit.
+
+3
+0:00:19.450000-->0:00:21.330000
+ I do have a problem with my right ear,
+
+4
+0:00:21.330000-->0:00:25.210000
+ but I can't wear any headphones at the moment.
+
+5
+0:00:25.210000-->0:00:28.670000
+ Anyway, whereabouts are you?
+
+6
+0:00:28.670000-->0:00:35.800000
+ Yeah, where do you live?
+
+7
+0:00:36-->0:00:38.420000
+ Sorry?
+
+8
+0:00:38.500000-->0:00:42.450000
+ I said where...
+
+9
+0:00:43-->0:00:45.020000
+ I live in North Wales.
+
+10
+0:00:45.020000-->0:00:46.400000
+ Where do you live again?
+
+11
+0:00:46.700000-->0:00:53.340000
+ Oh, Edinburgh. All right. Okay, cool.
+
+12
+0:00:53.600000-->0:00:56.740000
+ You've not got the accent yet.
+
+13
+0:00:57.600000-->0:01:00.280000
+ I'm not too bad, thank you.
+
+14
+0:01:00.600000-->0:01:03.240000
+ Yeah, I've been to Edinburgh.
+
+15
+0:01:04.600000-->0:01:06.240000
+ What do I do?
+
+16
+0:01:06.240000-->0:01:07.760000
+ Did you say?
+
+17
+0:01:09-->0:01:12.660000
+ Well, I've got health problems,
+
+18
+0:01:12.660000-->0:01:14.240000
+ so I don't have a job at the moment.
+
+19
+0:01:14.900000-->0:01:16.480000
+ What about you?
+
+20
+0:01:17.450000-->0:01:18.990000
+ What do you do?
+
+21
+0:01:21.900000-->0:01:23.230000
+ Oh, right. Okay.
+
+22
+0:01:23.650000-->0:01:25.870000
+ So, what...
+
+23
+0:01:27.950000-->0:01:30.110000
+ Yeah, oh, right. Okay, cool.
+
+24
+0:01:30.150000-->0:01:33.390000
+ So, what level are you in?
+
+25
+0:01:33.390000-->0:01:34.550000
+ What...
+
+26
+0:01:35.150000-->0:01:38.170000
+ Like, which year are you in?
+
+27
+0:01:40.250000-->0:01:41
+ Sorry?
+
+28
+0:01:44.590000-->0:01:45.630000
+ Oh, right. Okay.
+
+29
+0:01:46.150000-->0:01:50.650000
+ Oh, right. That's interesting.
+
+30
+0:01:51.770000-->0:01:52.150000
+ Yeah.
+
+31
+0:01:53.700000-->0:01:57.700000
+ So, I'm originally from South Africa.
+
+32
+0:01:59.200000-->0:02:02.720000
+ I moved over in 2008.
+
+33
+0:02:04.040000-->0:02:04.800000
+ So...
+
+34
+0:02:06.600000-->0:02:09.260000
+ Yeah, Johannesburg, actually.
+
+35
+0:02:11.180000-->0:02:12.340000
+ Johannesburg?
+
+36
+0:02:16.350000-->0:02:17.810000
+ In Gauteng.
+
+37
+0:02:17.810000-->0:02:19.390000
+ Yeah.
+
+38
+0:02:19.950000-->0:02:24.470000
+ So, we've been here about 15, 16 years now.
+
+39
+0:02:24.470000-->0:02:28.530000
+ So, my parents went over to visit them,
+
+40
+0:02:28.530000-->0:02:30.350000
+ and the rest of my family.
+
+41
+0:02:31.950000-->0:02:34.190000
+ It's over this month.
+
+42
+0:02:34.190000-->0:02:36.410000
+ And it was very, very hot.
+
+43
+0:02:36.410000-->0:02:39.730000
+ They're actually in Cape Town now, near Cape Town.
+
+44
+0:02:39.730000-->0:02:41.190000
+ And it was very hot.
+
+45
+0:02:41.190000-->0:02:43.830000
+ So, I don't think I can handle that heat.
+
+46
+0:02:44.950000-->0:02:46.050000
+ Yeah.
+
+47
+0:02:46.050000-->0:02:48.850000
+ So, it must be quite different for you.
+
+48
+0:02:50.950000-->0:02:52.950000
+ Different places.
+
+49
+0:02:55.500000-->0:02:56.300000
+ Yeah.
+
+50
+0:02:58.500000-->0:02:59.640000
+ Yeah, definitely.
+
+51
+0:03:01.700000-->0:03:02.320000
+ Yeah.
+
+52
+0:03:04.820000-->0:03:06
+ Yeah, definitely.
+
+53
+0:03:06.300000-->0:03:08.580000
+ Anyway, that was our...
+
+54
+0:03:08.580000-->0:03:11.780000
+ We decided we needed to move.
+
+55
+0:03:11.780000-->0:03:15.360000
+ So, there were lots of different decisions.
+
+56
+0:03:15.700000-->0:03:19.380000
+ So, when did you move over?
+
+57
+0:03:19.700000-->0:03:26.700000
+ Where are you originally from?
+
+58
+0:03:31.350000-->0:03:33.100000
+ Where were you born?
+
+59
+0:03:33.100000-->0:03:38.690000
+ Yeah.
+
+60
+0:03:41.450000-->0:03:42.230000
+ Nigeria, right, yeah.
+
+61
+0:03:42.900000-->0:03:45.470000
+ I don't know very well, but I know the name.
+
+62
+0:03:46.450000-->0:03:48.750000
+ So, when did you move over to the UK?
+
+63
+0:03:52.890000-->0:03:54.130000
+ Three years, okay.
+
+64
+0:03:54.250000-->0:03:55.330000
+ That's cool.
+
+65
+0:03:56.250000-->0:03:58.590000
+ Have you got used to the weather yet?
+
+66
+0:04:02-->0:04:04
+ Have you got used to the cold?
+

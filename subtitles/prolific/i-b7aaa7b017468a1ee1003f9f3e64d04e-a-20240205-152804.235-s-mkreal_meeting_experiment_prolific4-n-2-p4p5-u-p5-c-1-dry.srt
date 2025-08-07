@@ -1,0 +1,136 @@
+0
+0:00:11.600000-->0:00:15.160000
+ Hello, how are you?
+
+1
+0:00:18.200000-->0:00:20.750000
+ I'm doing fine, thank you.
+
+2
+0:00:20.750000-->0:00:29.330000
+ Just showered and I catched this study on Prolific and I was like, okay, this looks good.
+
+3
+0:00:29.650000-->0:00:31.190000
+ Yes.
+
+4
+0:00:34.100000-->0:00:37.140000
+ Where are you in the UK?
+
+5
+0:00:37.140000-->0:00:45.620000
+ I'm in Brentwood, Essex.
+
+6
+0:00:47.850000-->0:00:50.370000
+ How is the weather today?
+
+7
+0:01:00.330000-->0:01:00.350000
+ Good.
+
+8
+0:01:08.660000-->0:01:10.660000
+ Do you follow football? Do you like football?
+
+9
+0:01:12.720000-->0:01:12.840000
+ Yes.
+
+10
+0:01:12.840000-->0:01:13.440000
+ That's good.
+
+11
+0:01:17.220000-->0:01:18.300000
+ What's your name?
+
+12
+0:01:20.520000-->0:01:21.120000
+ Joanne.
+
+13
+0:01:21.800000-->0:01:23.520000
+ My name is Iagoda.
+
+14
+0:01:25.210000-->0:01:29.150000
+ I am originally from Macedonia.
+
+15
+0:01:31.350000-->0:01:35.240000
+ Do you know where is it? Many people don't.
+
+16
+0:01:35.900000-->0:01:44.820000
+ Yes, it is north of Greece. It's very small. Many people don't really know where it is.
+
+17
+0:01:46.750000-->0:01:59.900000
+ I am here since 2017. I came here to do my master's degree and then got married here and I live here now.
+
+18
+0:02:03.150000-->0:02:10.420000
+ Business Ecology. I did a master's degree in Business Ecology at the University of East London.
+
+19
+0:02:11.400000-->0:02:14.040000
+ It was a really nice experience.
+
+20
+0:02:14.650000-->0:02:16.700000
+ What do you do, Joanne?
+
+21
+0:02:35.100000-->0:02:39.500000
+ Did you make a good choice then? Are you happy with your choice?
+
+22
+0:02:43.920000-->0:02:45.520000
+ More free time, isn't it?
+
+23
+0:02:48.900000-->0:02:55.370000
+ I've never been to Hampshire, to that part of the UK.
+
+24
+0:03:07.850000-->0:03:14.250000
+ If the weather was nicer, it would be even better on the coast.
+
+25
+0:03:14.250000-->0:03:21.340000
+ Are you a long time on Prolific?
+
+26
+0:03:25.780000-->0:03:25.800000
+ Prolific?
+
+27
+0:03:25.800000-->0:03:26.400000
+ Yes.
+
+28
+0:03:33.380000-->0:03:33.400000
+ Okay.
+
+29
+0:03:33.780000-->0:03:34.260000
+ Yes.
+
+30
+0:03:42.050000-->0:03:42.070000
+ Exactly.
+
+31
+0:03:43.050000-->0:03:44.120000
+ That's good.
+
+32
+0:03:49.600000-->0:04:04.440000
+ Apart from doing certain jobs on different platforms, I started doing online sessions for people interested in coaching and personal development.
+
+33
+0:04:04.440000-->0:04:08.880000
+ But I don't have many students or many clients.
+

@@ -1,0 +1,240 @@
+0
+0:00:12.150000-->0:00:12.790000
+ How are you doing?
+
+1
+0:00:20.540000-->0:00:21.460000
+ Okay, how are you doing?
+
+2
+0:00:24.990000-->0:00:26.690000
+ Alright, so...
+
+3
+0:00:26.690000-->0:00:27.810000
+ Can we get to know each other?
+
+4
+0:00:28.450000-->0:00:29.990000
+ I'm Otto by name.
+
+5
+0:00:31.750000-->0:00:32.800000
+ So...
+
+6
+0:00:35.620000-->0:00:36.440000
+ I'm from Nigeria.
+
+7
+0:00:36.800000-->0:00:38.040000
+ What about you?
+
+8
+0:00:41.200000-->0:00:42.020000
+ Yeah.
+
+9
+0:00:43.300000-->0:00:43.840000
+ How far?
+
+10
+0:00:45.850000-->0:00:47.230000
+ Hahaha!
+
+11
+0:00:47.850000-->0:00:48.530000
+ Hahaha!
+
+12
+0:00:52.830000-->0:00:52.850000
+ Hahaha!
+
+13
+0:00:54.830000-->0:00:54.850000
+ Hahaha!
+
+14
+0:00:54.990000-->0:00:55.250000
+ Hahaha!
+
+15
+0:00:59.880000-->0:00:59.900000
+ Hahaha!
+
+16
+0:00:59.900000-->0:01:00.300000
+ Haha!
+
+17
+0:01:05.230000-->0:01:05.250000
+ Haha!
+
+18
+0:01:07.230000-->0:01:07.250000
+ Haha!
+
+19
+0:01:07.830000-->0:01:08.130000
+ Hahaha!
+
+20
+0:01:08.250000-->0:01:08.850000
+ Haha!
+
+21
+0:01:12.450000-->0:01:13.210000
+ Hahaha!
+
+22
+0:01:17.430000-->0:01:17.450000
+ Haha!
+
+23
+0:01:19.010000-->0:01:19.290000
+ Hahaha!
+
+24
+0:01:23.130000-->0:01:23.150000
+ Haha!
+
+25
+0:01:25.580000-->0:01:25.600000
+ Haha!
+
+26
+0:01:27.580000-->0:01:27.600000
+ Haha!
+
+27
+0:01:27.600000-->0:01:28.100000
+ Hahaha!
+
+28
+0:01:28.600000-->0:01:34.250000
+ I've been on it for like 8 months. This one is my own so, I've been on it for like 2 months.
+
+29
+0:01:43.820000-->0:01:46.260000
+ Yeah, Sproxy I usually...
+
+30
+0:01:47.150000-->0:01:55.440000
+ Yeah, there are certain things that I do. You know, the Sproxy, I don't really know the name.
+
+31
+0:01:56.200000-->0:02:00.180000
+ It depends, usually that sends it for me, it refuses to give me that info.
+
+32
+0:02:00.200000-->0:02:03.020000
+ So I just pay him and then he gives me.
+
+33
+0:02:03.200000-->0:02:06.600000
+ But there's a trick I normally use. I will share this trick with you.
+
+34
+0:02:07.200000-->0:02:12.100000
+ When you click on studies, it's usually full and you might not be able to do the study.
+
+35
+0:02:12.500000-->0:02:18.800000
+ So you go to your Chrome extension browser and download this OP auto clicker.
+
+36
+0:02:21.800000-->0:02:28.800000
+ So if you download the OP auto clicker and in situations where the study is full,
+
+37
+0:02:28.800000-->0:02:31.760000
+ once you have uploaded it, if you keep on loading it with requests,
+
+38
+0:02:31.800000-->0:02:36.640000
+ if you give it like maybe 5, 10, 20 minutes, it will finally accept you in.
+
+39
+0:02:36.640000-->0:02:40.780000
+ So rather than you using your mouse to do that clicking option,
+
+40
+0:02:42.420000-->0:02:43.820000
+ that's what the auto clicker will do for you.
+
+41
+0:02:43.820000-->0:02:49.280000
+ So once you just move your mouse to the... yeah, it will keep clicking for you.
+
+42
+0:02:49.300000-->0:02:55.240000
+ So if you just download it from your extension browser, the OP auto clicker,
+
+43
+0:02:55.300000-->0:03:01.520000
+ once you just activate it, at any point you want to claim a study,
+
+44
+0:03:01.520000-->0:03:04.520000
+ just alternate F1 and leave it on F10.
+
+45
+0:03:05.480000-->0:03:08.360000
+ So it will keep on telling you study full, study full, study full,
+
+46
+0:03:08.500000-->0:03:10.840000
+ until finally it opens the study for you.
+
+47
+0:03:11.600000-->0:03:14.440000
+ The only disadvantage that...
+
+48
+0:03:14.980000-->0:03:19.400000
+ The only study that I know that it poses a disadvantage is a study that is done by a research group.
+
+49
+0:03:19.600000-->0:03:25.580000
+ Anybody that uses that research, you know, that lab, survey site, research something,
+
+50
+0:03:25.580000-->0:03:28.600000
+ it always pushes people out.
+
+51
+0:03:28.600000-->0:03:33.160000
+ Once this space is filled up, it will tell you that participants for you should return to study.
+
+52
+0:03:35.870000-->0:03:39.770000
+ That particular platform that some researchers use,
+
+53
+0:03:41.310000-->0:03:42.770000
+ that is the only advantage that OP clicker has.
+
+54
+0:03:42.770000-->0:03:46.690000
+ Even if OP clicker will allow you to open the study, you cannot take the study.
+
+55
+0:03:46.750000-->0:03:51.690000
+ But studies like quadrics and many other video studies, paviola and the rest,
+
+56
+0:03:52.150000-->0:03:53.350000
+ you can actually do the study.
+
+57
+0:03:53.350000-->0:03:54.770000
+ The OP clicker will help you.
+
+58
+0:03:54.770000-->0:03:57.730000
+ Once you do it, you are free to go to study.
+
+59
+0:03:57.750000-->0:04:04.540000
+ Me? I'm at Enugu now.
+

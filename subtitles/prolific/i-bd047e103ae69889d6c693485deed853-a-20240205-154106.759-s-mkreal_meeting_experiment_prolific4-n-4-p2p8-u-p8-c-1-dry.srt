@@ -1,0 +1,92 @@
+0
+0:00:00-->0:00:10.060000
+ Hello.
+
+1
+0:00:10.060000-->0:00:14.860000
+ How are you?
+
+2
+0:00:15.620000-->0:00:17.340000
+ I'm good. How are you doing?
+
+3
+0:00:19.200000-->0:00:20.520000
+ I'm good. How are you?
+
+4
+0:00:25.400000-->0:00:35.050000
+ I haven't been on the phone in a long period of time. I started last year this week. How about you?
+
+5
+0:00:39.250000-->0:00:43.390000
+ I haven't been on the phone in a long period of time. I started last year this week. How about you?
+
+6
+0:00:43.630000-->0:00:49.010000
+ Okay, okay. Yeah, you asked me how long have I been in prolific and I said I recently just started
+
+7
+0:00:51.250000-->0:00:54.290000
+ So haven't been in poly, yeah, yeah
+
+8
+0:01:06.270000-->0:01:08.510000
+ Do you work or you're student
+
+9
+0:01:17.640000-->0:01:24.200000
+ I'm doing my master's. Yeah, University of Wilhelmton
+
+10
+0:01:27.700000-->0:01:31.450000
+ Yep, yep. So what's your name?
+
+11
+0:01:38.760000-->0:01:39.240000
+ Yes, sir
+
+12
+0:01:41.500000-->0:01:44.740000
+ Okay, okay i'm femi nice to meet you sir
+
+13
+0:01:54.820000-->0:01:57.700000
+ Yeah, pretty much a little bit not that much
+
+14
+0:01:57.720000-->0:02:01.180000
+ It's not it's not really something you can really just depend on you
+
+15
+0:02:01.180000-->0:02:06.660000
+ You need to also walk and do all that stuff. So about at least for the meantime, they're keeping me busy
+
+16
+0:02:07-->0:02:12.330000
+ I mean as a student, so yeah, it's been it's been okay
+
+17
+0:02:13.880000-->0:02:14.300000
+ um
+
+18
+0:02:14.440000-->0:02:15.740000
+ web development
+
+19
+0:02:22.320000-->0:02:23.520000
+ Do you find prolific useful
+
+20
+0:03:01.400000-->0:03:08.160000
+ Okay, so basically it depends on your availability
+
+21
+0:03:34.990000-->0:03:37.730000
+ Yeah, yeah
+
+22
+0:03:39.250000-->0:03:40.390000
+ Friends
+

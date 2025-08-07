@@ -1,0 +1,8 @@
+0
+0:00:00.250000-->0:00:22.230000
+ Hi! How are you? I'm fine, and you? Okay.
+
+1
+0:00:23.370000-->0:00:24.030000
+ Do you have the moon?
+
