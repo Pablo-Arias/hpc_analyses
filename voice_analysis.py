@@ -29,7 +29,7 @@ def analyse_audio():
 
 	#Extract audoio time series, this works in parallel in sevral CPU cores
 	analyse_audio_ts_folder(source_folder= "extracted_audio/"+data_id+"/*.wav"
-	 							, time_step				= 0.002
+	 							, time_step				= 0.01
 	 							, praat_ws			    = 0.04
 	 							, sc_ws                 = 1024
 	 							, rms_ws                = 1024
