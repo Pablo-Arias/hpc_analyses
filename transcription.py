@@ -21,7 +21,7 @@ import glob
 
 model       = "large-v3" #"large" #or use medium
 target_path = "transcribed/"
-data_id     = "brainstorm/"
+data_id     = "calsoup/"
 sources     = "preproc/"+data_id+"/*/trimed/*/*.mp4"
 
 #Process one file at a time
@@ -32,7 +32,7 @@ for file in glob.glob(sources):
                                     , model_type= model
                                     , language="English"
                                     , device="cpu"
-                                    , extract_audio_flag = True
+                                    , extract_audio_flag = False
                                     , temperature = (0.0, 0.2, 0.4, 0.6, 0.8, 1.0)
                                     , best_of   = 5
                                     , beam_size = 5

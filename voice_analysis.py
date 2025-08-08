@@ -22,7 +22,7 @@ import pandas as pd
 def analyse_audio():
 	#First extract audio from videos and convert to mono
 	
-	data_id = "brainstorm"
+	data_id = "calsoup"
 	source     = "preproc/"+data_id+"/*/trimed/*/*.mp4"
 
 	extract_audio_folder(source, target_folder= "extracted_audio/"+data_id+"/", nb_audio_channels=1)
