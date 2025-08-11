@@ -47,6 +47,8 @@ conda install -y -c conda-forge ffmpeg
 # or system-wide (macOS): brew install ffmpeg
 ```
 
+If you don't manage to install ffmpeg, consider installing it locally follwing [this tutorial](https://github.com/ducksouplab/prepro/blob/main/tutorial/build_ffmpeg_locally_for_HPC.md)
+
 ---
 
 # 2) Clone helper repos *next to* this repo
@@ -88,7 +90,6 @@ conda develop ../repos/STIM
 conda develop ../repos/video_analysis
 ```
 
-If you don't manage to install ffmpeg, consider installing it locally follwing [this tutorial](https://github.com/ducksouplab/prepro/blob/main/tutorial/build_ffmpeg_locally_for_HPC.md)
 
 ## B) `stim39` — advanced audio/voice analysis (via STIM)
 
