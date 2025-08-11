@@ -1,10 +1,8 @@
-# hpc_analyses — Miniforge Environments + Script-by-Script Mapping + SLURM Jobs
-
-BEWARE : the folloiwng read me was written by AI—with some supervision— so may not be completely accurate. Refer to the top of each .py file to make sure you have configured environments correctly. Also, put your data inside original_data/your_experiment. Also, configure each .py file to analyse your data by changing the experiment name to your_experiment.
+# Hpc_analyses — Setting up Environments, Scripts and SLURM Jobs
 
 This repository contains **small, composable pipelines** to preprocess and analyse **DuckSoup** experiment data on laptops and **SLURM** clusters. The goal is to make routine operations (video prep, facial AUs, voice features, transcription→subtitles, heart-rate) **repeatable and scalable**.
 
-- Each script does **one job** (preprocess, AU extraction, audio prep, voice analysis, transcription, subtitles, HR).
+- Each script does **one job** (preprocess, AU extraction, audio prep, voice analysis, transcription, subtitles, Heart Rate).
 - **Environment instructions** (which conda env + `conda develop` lines) are written **at the top of each `.py` file**, and matched by the associated `*_job.sh` wrapper.
 - This README mirrors those **per‑script environments** so new users can get running quickly.
 
@@ -73,22 +71,28 @@ parent_dir/
 
 ---
 
-# 3) Environments overview (create once)
+# 3) Environments overview (do once)
 
-Below are the **core envs** used across the scripts, plus **Face (GPU)** and **Whisper** envs as requested.
+Below are the **core environments** used across the scripts that you will use. If the conda develop command doesn't work, see note below.
 
-> After creating an env, use `conda develop` so `stim`/`prepro` import cleanly (see section 4).
+## A) `ds_prepro` environment 
+ds_prepro stands for duscksoup preprocessing, which handles all video preprocessing, MediaPipe AUs, basic audio
 
-## A) `ds_prepro` —stands for duscksoup preprocessing — video prep, MediaPipe AUs, basic audio
-
+Create the environment as follows:
 ```bash
 conda create -y -n ds_prepro python=3.9 -c conda-forge
 conda activate ds_prepro
 pip install pandas soundfile opencv-python mediapipe tqdm
 conda install -y -c conda-forge ffmpeg conda-build
+conda develop ../repos/STIM
+conda develop ../repos/video_analysis
 ```
 
+If you don't manage to install ffmpeg, consider installing it locally follwing [this tutorial](https://github.com/ducksouplab/prepro/blob/main/tutorial/build_ffmpeg_locally_for_HPC.md)
+
 ## B) `stim39` — advanced audio/voice analysis (via STIM)
+
+Stim39 is a repo to perform voice analyses.
 
 ```bash
 conda create -y -n stim39 python=3.9 -c conda-forge
@@ -97,52 +101,31 @@ pip install numpy scipy pandas matplotlib soundfile pyloudnorm             openc
 # optional (some STIM features):
 conda install -y -c roebel easdif || true
 conda install -y -c conda-forge ffmpeg conda-build
-```
-
-## C) `ds_prepro-gpu` — Face/AU GPU variant *(if your AU scripts/jobs use GPU)*
-
-> Only create if your `AU_analysis_GPU.py` + `*_GPU_job.sh` actually need GPU.
-> Install the **matching** PyTorch build for your cluster’s CUDA. See https://pytorch.org/get-started/locally/
-
-```bash
-conda create -y -n ds_prepro-gpu python=3.9 -c conda-forge
-conda activate ds_prepro-gpu
-pip install opencv-python mediapipe tqdm
-# Install PyTorch matching your CUDA or CPU-only:
-# GPU example (change version/index-url to match your cluster):
-#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-# CPU example:
-#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-conda install -y -c conda-forge ffmpeg conda-build
-```
-
-## D) `whisper` — OpenAI Whisper ASR *(PyTorch backend)*
-
-> Use if your `transcription.py`/job files indicate **OpenAI Whisper**.
-
-```bash
-conda create -y -n whisper python=3.10 -c conda-forge
-conda activate whisper
-# Install PyTorch for your CUDA or CPU as above, then:
-pip install openai-whisper
-conda install -y -c conda-forge ffmpeg conda-build
-```
-
-## E) `fasterwhisper` — Faster‑Whisper ASR *(Ctrnaslate2 backend)*
-
-> Use if your `transcription.py`/job files indicate **Faster‑Whisper**.
-
-```bash
-conda create -y -n fasterwhisper python=3.10 -c conda-forge
-conda activate fasterwhisper
-pip install faster-whisper
-conda install -y -c conda-forge ffmpeg conda-build
+conda develop ../repos/STIM
+conda develop ../repos/video_analysis
 ```
 
 ---
 
+## C) `whisper` — OpenAI Whisper ASR *(PyTorch backend)*
+
+> Use if your `transcription.py`/job files indicate **OpenAI Whisper**.
+
+```bash
+conda create --name whisper python=3.11
+conda activate whisper
+pip install whisper
+pip3 install whisper-timestamped
+pip install opencv-python
+pip install auditok
+conda develop ../repos/STIM
+conda develop ../repos/video_analysis
+```
+
+
 # 4) Make `STIM` & `prepro` importable (per env)
 
+You may be able to use conda develop to add the path of your repositories to your scripts. 
 Do this **once per env** you plan to use:
 
 ```bash
@@ -157,7 +140,7 @@ conda develop "$(pwd)/../STIM"
 conda develop "$(pwd)/../prepro"
 ```
 
-> If you prefer not to use `conda develop`, add this snippet at the top of your scripts:
+If conda develop doesn't work, you can add this snippet at the top of your scripts:
 >
 > ```python
 > from pathlib import Path; import sys
@@ -167,175 +150,13 @@ conda develop "$(pwd)/../prepro"
 
 ---
 
-# 5) Per‑script environments (from headers + job wrappers)
-
-> **Source of truth:** the **top of each `.py`** and the **associated `*_job.sh`**.  
-> This section mirrors those patterns and adds missing Face/Whisper envs. If a script differs in your repo, keep **your** header/job as final.
-
-### `process_videos.py` — Standardize raw recordings
-- **Env:** `ds_prepro`
-- **Header (env)** *(from script)*
-  ```bash
-  conda activate ds_prepro
-  pip install soundfile pandas opencv-python tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `process_videos_job.sh` → activates `ds_prepro` then runs `python process_videos.py`.
-
----
-
-### `AU_analysis_mp.py` — Face AUs with MediaPipe (CPU)
-- **Env:** `ds_prepro`
-- **Header (env)** *(from script)*
-  ```bash
-  conda activate ds_prepro
-  pip install mediapipe opencv-python pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `AU_analysis_mp_job.sh` → activates `ds_prepro` then runs `python AU_analysis_mp.py`.
-
----
-
-### `AU_analysis.py` / `AU_analysis_GPU.py` — AU alternative / GPU
-- **Env:** `ds_prepro-gpu` *(if GPU)*, else `ds_prepro`
-- **Header (env)** *(from script; GPU example)*
-  ```bash
-  conda activate ds_prepro-gpu
-  # plus torch/torchvision/torchaudio matching your CUDA (see env C)
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Jobs:** `AU_analysis_job.sh` / `AU_analysis_GPU_job.sh` → activate the corresponding env and run the script.
-
----
-
-### `create_au_videos.py` — Render AU overlays on video
-- **Env:** `ds_prepro`
-- **Header (env)**
-  ```bash
-  conda activate ds_prepro
-  pip install opencv-python pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `create_au_videos_job.sh`
-
----
-
-### `process_audio.py` — Audio extraction/normalization
-- **Env:** `ds_prepro`
-- **Header (env)**
-  ```bash
-  conda activate ds_prepro
-  pip install soundfile pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `process_audio_job.sh`
-
----
-
-### `voice_analysis.py` — Voice/acoustic features (via STIM)
-- **Env:** `stim39`
-- **Header (env)**
-  ```bash
-  conda activate stim39
-  pip install numpy scipy pandas matplotlib soundfile pyloudnorm               opencv-python praat-parselmouth pyo
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `voice_analysis_job.sh`
-
----
-
-### `transcription.py` — Automatic speech recognition (Whisper backends)
-- **Env (choose based on your script/job):**
-  - **OpenAI Whisper:** `whisper` (section D)
-  - **Faster‑Whisper:** `fasterwhisper` (section E)
-- **Header (env)** *(example for Faster‑Whisper)*
-  ```bash
-  conda activate fasterwhisper
-  pip install faster-whisper
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-  *(or for OpenAI Whisper use `conda activate whisper` and `pip install openai-whisper`)*
-- **Job:** `transcription_job.sh` (or `transcribe_test.py` for quick checks)
-
----
-
-### `create_subtitles.py` — Generate subtitles (VTT/SRT)
-- **Env:** `ds_prepro`
-- **Header (env)**
-  ```bash
-  conda activate ds_prepro
-  pip install pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `create_subtitles_job.sh`
-
----
-
-### `hr.py` — Heart‑rate extraction
-- **Env:** `ds_prepro` (+ Apptainer/Singularity if a `.sif` is required)
-- **Header (env)**
-  ```bash
-  conda activate ds_prepro
-  pip install pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  # if the header mentions a .sif: place it under models/ (e.g., models/interalysis0.1.sif)
-  ```
-- **Job:** `hr_job.sh`
-
----
-
-### `index.py` — Index/QA of processed outputs
-- **Env:** `ds_prepro`
-- **Header (env)**
-  ```bash
-  conda activate ds_prepro
-  pip install pandas tqdm
-  conda develop "$(pwd)/../STIM"
-  conda develop "$(pwd)/../prepro"
-  ```
-- **Job:** `index_job.sh`
-
----
-
-# 6) Data & models layout
-
-- **Raw recordings:** `original_data/<EXPERIMENT_NAME>/…`
-- **Large models/containers:** `models/` (e.g., `.sif` for HR if used)
-- **Outputs:** each script writes to analysis‑specific folders (see header defaults)
-
-Bootstrap your tree:
-```bash
-mkdir -p original_data/<EXPERIMENT_NAME>/
-mkdir -p models/ logs/
-```
-
----
-
-# 7) SLURM: use the job scripts already in this repo
+# 5) SLURM: use the job scripts already in this repo
 
 Use the provided `_job.sh` wrappers **as‑is**. Typically you only edit:
 - `#SBATCH --account=…` (your project)
 - `#SBATCH --partition=…` (queue/partition)
 - time/mem/CPU (and `--gres=gpu:…` if GPU)
 - the **Miniforge activation** (two options below)
-
-Put one of these near the top **before** `conda activate`:
-
-```bash
-# Option A (recommended)
-source "$HOME/miniforge3/etc/profile.d/conda.sh"
-# Option B (portable)
-eval "$($HOME/miniforge3/bin/conda shell.bash hook)"
-```
 
 **Submit & monitor**
 ```bash
@@ -346,6 +167,28 @@ tail -f logs/<jobname>-<jobid>.out
 seff <JOBID>
 sstat -j <JOBID> --format=JobID,MaxRSS,AveRSS,MaxVMSize
 ```
+
+
+## Preprocessing videos:
+
+Open the process_videos.py and corresponding process_videos_job.py. These are the scripts we are going to execute for the preprocessing. Create a folder called preproc for putting the preprocessed videos:  ```mkdir preproc```
+create a folder with your experiment name e.g. calsoup inside preproc : ```mkdir preproc/calsoup```
+Execute the script : process_videos_job.py which calls process_videos.py. To do this change your parameters for the slurm call in the _job file by changing the -u flag.
+
+Check out if that job executes well. If it does, you can send 10 jobs using that script.
+
+## Face analysis
+For face analysis follow these steps:
+
+open the script : AU_analysis_mp_job.sh and adapt the part for "# For ffmpeg local instalation" with your details if you installed ffmpeg locally, or remove this part it if you installed it with conda.
+
+Now create the output dirs, supposing your experiment name is "calsoup"—change as needed:
+```
+mkdir mp/calsoup/
+Execute the script: sbatch --account <YOUR_ACCOUNT> AU_analysis_mp_job.sh
+```
+
+Wait for a while and check the outputs to see if it's working. This should create several versions of your videos inside preproc/calsoup/
 
 ## External docs & tutorials
 
