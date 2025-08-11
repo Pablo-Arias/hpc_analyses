@@ -173,10 +173,12 @@ sstat -j <JOBID> --format=JobID,MaxRSS,AveRSS,MaxVMSize
 ## Preprocessing videos:
 
 Open the process_videos.py and corresponding process_videos_job.py. These are the scripts we are going to execute for the preprocessing. Create a folder called preproc for putting the preprocessed videos:  ```mkdir preproc```
-create a folder with your experiment name e.g. calsoup inside preproc : ```mkdir preproc/calsoup```
+
+Create a folder with your experiment name e.g. calsoup inside preproc : ```mkdir preproc/calsoup```
+
 Execute the script : process_videos_job.py which calls process_videos.py. To do this change your parameters for the slurm call in the _job file by changing the -u flag.
 
-Check out if that job executes well. If it does, you can send 10 jobs using that script.
+Check out if that job executes well by seeing if there are new folders created inside preproc. If it does, you can send 10 jobs using that script.
 
 ## Face analysis
 For face analysis follow these steps:
