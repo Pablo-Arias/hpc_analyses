@@ -25,7 +25,7 @@ def analyse_audio():
 	data_id = "calsoup"
 	source     = "preproc/"+data_id+"/*/trimed/*/*.mp4"
 
-	extract_audio_folder(source, target_folder= "extracted_audio/"+data_id+"/", nb_audio_channels=1)
+	#extract_audio_folder(source, target_folder= "extracted_audio/"+data_id+"/", nb_audio_channels=1)
 
 	#Extract audoio time series, this works in parallel in sevral CPU cores
 	analyse_audio_ts_folder(source_folder= "extracted_audio/"+data_id+"/*.wav"
