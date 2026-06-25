@@ -39,3 +39,7 @@ aux_folder/
 .ipynb_checkpoints/
 
 hr_synchrony_analysis/.ipynb_checkpoints/
+
+original_data/*/
+
+subtitles/*/
