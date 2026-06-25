@@ -1,5 +1,5 @@
 # Check the singularity container. 
-# You will need three repos : STIM, video_analysis and pyVHR, which can be cloned online : https://github.com/Pablo-Arias
+# You will need three repos : STIM, video_analysis and pyVHR, which can be cloned online : https://github.com/Pablo-Arias, be carefull for pyVHR repo, we are using a patched version, ask Pablo Arias Sarah for the folder
 # Execute this scrip with:
 # sbatch --account project0028 hr_job.sh
 
