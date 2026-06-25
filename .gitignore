@@ -35,3 +35,7 @@
 hr_synchrony_analysis/OLD_BU/
 
 aux_folder/
+
+.ipynb_checkpoints/
+
+hr_synchrony_analysis/.ipynb_checkpoints/
