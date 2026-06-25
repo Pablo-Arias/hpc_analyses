@@ -8,7 +8,7 @@
 #SBATCH --mem=20G                       # memory required per node, in the form of [num][M|G|T]
 #SBATCH --nodes=1                       # number of nodes to allocate, default is 1
 #SBATCH --ntasks=1                      # number of Slurm tasks to be launched, increase for multi-process runs ex. MPI
-#SBATCH --cpus-per-task=40              # number of processor cores to be assigned for each task, default is 1, increase for multi-threading runs
+#SBATCH --cpus-per-task=8               # number of processor cores to be assigned for each task, default is 1, increase for multi-threading runs
 #SBATCH --ntasks-per-node=1             # number of tasks to be launched on each allocated node
 #SBATCH --partition=nodes               # which partition to use, default on MARS is “nodes", or use "nodes" if you want CPU
 
@@ -22,7 +22,6 @@ export INSTALL_DIR="/mnt/data/project0028"
 export SRC_DIR="$INSTALL_DIR/ffmpeg_sources"
 export PATH="$INSTALL_DIR/bin:$PATH"
 export PKG_CONFIG_PATH="$INSTALL_DIR/lib/pkgconfig"
-
 
 ############# Anaconda env #############
 

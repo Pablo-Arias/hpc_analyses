@@ -15,19 +15,11 @@ from pathlib import Path
 
 print("Starting analysis")
 
-experiment = "calsoup"
+experiment = "noah"
 
 #sessions = [x.split("/")[-1] for x in glob.glob("original_data/brainstorm/*")]
 
-sessions  =["mkCaltech_videoChat_Game_24" , "mkCaltech_videoChat_Game_25" 
-            , "mkCaltech_videoChat_Game_27","mkCaltech_videoChat_Game_28","mkCaltech_videoChat_Game_29","mkCaltech_videoChat_Game_212"
-            ,"mkCaltech_videoChat_Game_213","mkCaltech_videoChat_Game_214","mkCaltech_videoChat_Game_215","mkCaltech_videoChat_Game_216"
-            ,"mkCaltech_videoChat_Game_218","mkCaltech_videoChat_Game_219","mkCaltech_videoChat_Game_220","mkCaltech_videoChat_Game_221"
-            ,"mkCaltech_videoChat_Game_222","mkCaltech_videoChat_Game_223","mkCaltech_videoChat_Game_225","mkCaltech_videoChat_Game_227","mkCaltech_videoChat_Game_228"
-            ,"mkCaltech_videoChat_Game_229","mkCaltech_videoChat_Game_230","mkCaltech_videoChat_Game_233","mkCaltech_videoChat_Game_236","mkCaltech_videoChat_Game_237","mkCaltech_videoChat_Game_238"
-            ,"mkCaltech_videoChat_Game_239","mkCaltech_videoChat_Game_240","mkCaltech_videoChat_Game_241","mkCaltech_videoChat_Game_242","mkCaltech_videoChat_Game_245"
-            ]
-
+sessions  =["mknoah_brainstorming_session1",   "mknoah_brainstorming_session2",  "mknoah_brainstorming_session5",  "mknoah_brainstorming_session9",    "mknoah_brainstorming_session_23","mknoah_brainstorming_session10",  "mknoah_brainstorming_session3",  "mknoah_brainstorming_session6",  "mknoah_brainstorming_session_21","mknoah_brainstorming_session11",  "mknoah_brainstorming_session4",  "mknoah_brainstorming_session7",  "mknoah_brainstorming_session_22"]
 
 for session_name in sessions:
     folder = Path("preproc/"+experiment+ "/"+session_name+"/")

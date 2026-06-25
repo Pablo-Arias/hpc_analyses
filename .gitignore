@@ -21,3 +21,15 @@
 *.txt
 
 *.log
+
+*.lock
+
+
+*.skipped
+
+
+*.cubin
+
+*.png
+
+hr_synchrony_analysis/OLD_BU/

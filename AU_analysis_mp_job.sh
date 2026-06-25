@@ -1,7 +1,7 @@
 #!/bin/bash -l
 
 ############# SLURM SETTINGS #############
-#SBATCH --job-name=face_analysis_calsoup_45_new_repo_gpt        # some descriptive job name of your choice
+#SBATCH --job-name=face_analysis_mp        # some descriptive job name of your choice
 #SBATCH --output=%x-%j.out                 # output file name will contain job name + job ID
 #SBATCH --error=%x-%j.err                  # error file name will contain job name + job ID
 #SBATCH --time=06-00:00:00                 # time limit for the whole run, in the form of d-hh:mm:ss, also accepts mm, mm:ss, hh:mm:ss, d-hh, d-hh:mm

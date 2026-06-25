@@ -22,18 +22,18 @@ import pandas as pd
 def analyse_audio():
 	#First extract audio from videos and convert to mono
 	
-	data_id = "calsoup"
+	data_id = "prolific"
 	source     = "preproc/"+data_id+"/*/trimed/*/*.mp4"
 
 	#extract_audio_folder(source, target_folder= "extracted_audio/"+data_id+"/", nb_audio_channels=1)
 
 	#Extract audoio time series, this works in parallel in sevral CPU cores
 	analyse_audio_ts_folder(source_folder= "extracted_audio/"+data_id+"/*.wav"
-	 							, time_step				= 0.01
-	 							, praat_ws			    = 0.04
+	 							, time_step				= 0.005
+	 							, praat_ws			    = 0.04 
 	 							, sc_ws                 = 1024
 	 							, rms_ws                = 1024
-	 							, pitch_floor			= 75
+	 							, pitch_floor			= 75 
 	 							, pitch_ceiling			= 450
 	 							, nb_formants			= 5
 	 							, max_formant_freq		= 5500
@@ -42,7 +42,7 @@ def analyse_audio():
 	 							, verbose               = True
 	 							, silence_threshold      = -50
 	 							, target_folder			 = "audio_analysis_ts/"+data_id+"/"
-	 							, plot_features          = True
+	 							, plot_features          = False
 	 				)
 
 	print("time series analysis finished")

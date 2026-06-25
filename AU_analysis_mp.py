@@ -39,7 +39,7 @@ model = "models/face_landmarker_v2_with_blendshapes.task"
 
 
 #One file at a time
-sources = "preproc/calsoup/*/trimed/*/*.mp4"
+sources = "preproc/noah/*/trimed/*/*.mp4"
 
 #sources = "original_data/speed_dating/*.mp4"
 
@@ -49,13 +49,13 @@ for file in glob.glob(sources):
     
     t0 = time.perf_counter()                            # timer for this file
     analyse_video(file
-                        , target_analysis_folder   = "mp/calsoup/au_analysis/"
-                        , target_frames_folder     = "mp/calsoup/tracked/"
-                        , target_video_folder      = "mp/calsoup/tracked_video/"
-                        , target_au_video_folder   = "mp/calsoup/au_video/"
-                        , target_AU_plots_folder   = "mp/calsoup/AU_bar_graph_folder/"
-                        , combined_videos_folder   = "mp/calsoup/combined_videos_folder/"
-                        , target_processing_folder = "mp/calsoup/processing/" 
+                        , target_analysis_folder   = "mp/noah/au_analysis/"
+                        , target_frames_folder     = "mp/noah/tracked/"
+                        , target_video_folder      = "mp/noah/tracked_video/"
+                        , target_au_video_folder   = "mp/noah/au_video/"
+                        , target_AU_plots_folder   = "mp/noah/AU_bar_graph_folder/"
+                        , combined_videos_folder   = "mp/noah/combined_videos_folder/"
+                        , target_processing_folder = "mp/noah/processing/" 
                         , model_asset_path         = model
                         , export_tracked_frames    = False
                         , delete_frames            = False

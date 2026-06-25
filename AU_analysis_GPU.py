@@ -13,9 +13,9 @@ import os
 os.environ['OPENBLAS_NUM_THREADS'] = '1'
 from face_analysis_pf import analyse_videos
 
-sources = "preproc/brainstorm/*/new_fps/*/*.mp4"
+sources = "preproc/noah/*/new_fps/*/*.mp4"
 
-target_folder = "au_analysis/brainstorm/"
+target_folder = "au_analysis/noah/"
 
 analyse_videos(sources
                         , target_folder

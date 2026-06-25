@@ -25,7 +25,7 @@ export PATH="$INSTALL_DIR/bin:$PATH"
 export PKG_CONFIG_PATH="$INSTALL_DIR/lib/pkgconfig"
 
 
-module load apps/nvidia-cuda/11.7.1
+#module load apps/nvidia-cuda/11.7.1
 
 ############# Anaconda env #############
 

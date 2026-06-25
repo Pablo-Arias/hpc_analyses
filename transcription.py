@@ -21,8 +21,8 @@ import glob
 
 model       = "large-v3" #"large" #or use medium
 target_path = "transcribed/"
-data_id     = "calsoup/"
-sources     = "preproc/"+data_id+"/*/trimed/*/*.mp4"
+data_id     = "prolific/"
+sources     = "preproc/"+data_id+"*/trimed/*/*.mp4"
 
 #Process one file at a time
 for file in glob.glob(sources):
@@ -32,12 +32,14 @@ for file in glob.glob(sources):
                                     , model_type= model
                                     , language="English"
                                     , device="cpu"
-                                    , extract_audio_flag = False
+                                    , extract_audio_flag = True
                                     , temperature = (0.0, 0.2, 0.4, 0.6, 0.8, 1.0)
                                     , best_of   = 5
                                     , beam_size = 5
-                                    , vad       = "auditok"
+                                    , vad       = "silero"
                                     , detect_disfluencies = True
+                                    , condition_on_previous_text = False
+                                    , patience = 2.0
                                     )
 
 #Transcriibe parallel
